@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/rmaheshkum/Ruchita/edit/gh
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Welcome to Ruchita Mahesh Kumar 
+![Ruchita Mahehsh Kumar](https://rmaheshkum.github.io/Ruchita/IMG_5351.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
